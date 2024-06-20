@@ -8,3 +8,8 @@
 ```
 That makes it a little easier to see.
 ```
+
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
